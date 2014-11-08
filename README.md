@@ -10,6 +10,7 @@ This workflow is for running the iOS Simulator and its devices from the Xcode Ap
 |---|---|
 |iossimulator|This will run the iOS simulator regardless of the last device used.|
 |ioslaunch \<devicename\>|This will launch an iOS device based on the argument specified.|
+|iosopenurl \<url\>|This will open the URL specified in the iOS Simulator's currently booted device.|
 
 ****
 
