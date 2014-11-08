@@ -3,7 +3,7 @@ My Alfred Workflows
 
 This is where I am keeping my Alfred 2 workflows and extension.
 
-** iOS Simulator Launcher **
+**iOS Simulator Launcher**
 This workflow is for running the iOS Simulator and its devices from the Xcode Application.
 
 | Command | Description |
